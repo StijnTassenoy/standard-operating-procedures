@@ -8,7 +8,6 @@ to quickly and easily access the instructions for placing different iOS devices 
 > **Warning**  
 > You can break your iDevice if you don't know what you are doing.
 
----
 
 ## Recovery Mode
 iOS Recovery Mode is a mode that allows the device to be restored with the latest version of iOS, without the need for an iTunes backup. 
@@ -74,7 +73,7 @@ To put an iOS device in DFU mode, you need to connect it to a computer with iTun
 > **iPhone 13**, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max  
 > **iPhone 14**, iPhone 14 Mini, iPhone 14 Pro, iPhone 14 Pro Max  
   
----
+  
   
 ## Difference between DFU Mode and Recovery Mode
 iOS Recovery Mode and DFU Mode are both special modes that are used to troubleshoot, restore or update iOS devices like iPhones, iPads and iPods. 
