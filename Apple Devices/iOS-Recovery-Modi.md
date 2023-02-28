@@ -15,9 +15,25 @@ iOS Recovery Mode is a mode that allows the device to be restored with the lates
 It can be used in cases where the device is stuck on the Apple logo, in a continuous restart loop or is not responding. 
 To put an iOS device in Recovery Mode, you need to connect it to a computer with iTunes installed, and then follow a specific set of button presses to activate the mode.
 
-### iOS Devices with a home button:
+### iOS Devices with a home button (6th generation and earlier):
+> ...  
+> iPhone 4, iPhone 4s  
+> iPhone 5, iPhone 5c, iPhone 5s  
+> iPhone SE (1st generation)  
+> iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus  
 
-### IOS Devices without a home button
+### iOS Devices with a home button (7th generation):
+> iPhone 7, iPhone 7 Plus, iPad (7th generation), iPod touch (7th generation)
+
+
+### iOS Devices without a home button (8th generation and later)
+> **iPhone SE** (2nd generation)  
+> **iPhone 8**, iPhone 8 Plus  
+> **iPhone X**, iPhone XR, iPhone XS, iPhone XS Max  
+> **iPhone 11**, iPhone 11 Pro, iPhone 11 Pro Max  
+> **iPhone 12**, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max  
+> **iPhone 13**, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max  
+> **iPhone 14**, iPhone 14 Mini, iPhone 14 Pro, iPhone 14 Pro Max 
 
 ## DFU Mode
 DFU (Device Firmware Update) mode, is a mode that allows the device to be restored with custom firmware. 
@@ -25,9 +41,25 @@ This mode is used when the device is completely unresponsive, or when you want t
 DFU mode allows the device to be restored even if the software is corrupt or damaged. 
 To put an iOS device in DFU mode, you need to connect it to a computer with iTunes installed, and then follow a specific set of button presses to activate the mode.
  
-### iOS Devices with a home button:
+### iOS Devices with a home button (6th generation and earlier):
+> ...  
+> iPhone 4, iPhone 4s  
+> iPhone 5, iPhone 5c, iPhone 5s  
+> iPhone SE (1st generation)  
+> iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus  
 
-### IOS Devices without a home button 
+### iOS Devices with a home button (7th generation):
+> iPhone 7, iPhone 7 Plus, iPad (7th generation), iPod touch (7th generation)
+
+
+### iOS Devices without a home button (8th generation and later)
+> **iPhone SE** (2nd generation)  
+> **iPhone 8**, iPhone 8 Plus  
+> **iPhone X**, iPhone XR, iPhone XS, iPhone XS Max  
+> **iPhone 11**, iPhone 11 Pro, iPhone 11 Pro Max  
+> **iPhone 12**, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max  
+> **iPhone 13**, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max  
+> **iPhone 14**, iPhone 14 Mini, iPhone 14 Pro, iPhone 14 Pro Max 
  
 ---
   
