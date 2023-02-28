@@ -23,14 +23,14 @@ To put an iOS device in Recovery Mode, you need to connect it to a computer with
 
 
 | <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone/iphone6-put-device-into-recovery-mode.png" alt="Recovery iPhone 8up" style="width: 50%;"> | <ol><li>Press and hold both the Home and the top (or side) buttons at the same time.</li><li>Keep holding them until you see the recovery mode screen.</li></ol> |
-| --- | --- |
+| --- | :--- |
 
 ### iOS Devices with a home button (7th generation):
 > iPhone 7, iPhone 7 Plus, iPad (7th generation), iPod touch (7th generation)
 
 
 | <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone/iphone7-put-device-into-recovery-mode.png" alt="Recovery iPhone 8up" style="width: 50%;"> | <ol><li>Press and hold the top (or side) and volume down buttons at the same time.</li><li>Keep holding them until you see the recovery mode screen.</li></ol> |
-| --- | --- |
+| --- | :--- |
 
 
 ### iOS Devices without a home button (8th generation and later)
@@ -44,7 +44,7 @@ To put an iOS device in Recovery Mode, you need to connect it to a computer with
 
 
 | <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone/iphone-x-later-put-device-into-recovery-mode-animation.gif" alt="Recovery iPhone 8up" style="width: 50%;"> | <ol><li>Press and quickly release the volume up button.</li><li>Press and quickly release the volume down button.</li><li>Then, press and hold the side button until you see the recovery mode screen.</li></ol> |
-| --- | --- |
+| --- | :--- |
 
 ## DFU Mode
 DFU (Device Firmware Update) mode, is a mode that allows the device to be restored with custom firmware. 
@@ -58,10 +58,15 @@ To put an iOS device in DFU mode, you need to connect it to a computer with iTun
 > iPhone 5, iPhone 5c, iPhone 5s  
 > iPhone SE (1st generation)  
 > iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus  
-  
+
+| <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone/iphone6-put-device-into-recovery-mode.png" alt="Recovery iPhone 8up" style="width: 70%;"> | <ol><li>Connect the device to a computer using a USB cable.</li><li>Hold down both the Home button and Lock button.</li><li>After 8 seconds, release the Lock button while continuing to hold down the Home button.</li><ul><li>If the Apple logo appears, the Lock button was held down for too long.</li></ul><li>Nothing will be displayed on the screen when the device is in DFU mode. If open, iTunes will alert you that a device was detected in recovery mode.</li><ul><li>If your device shows a screen telling you to connect the device to iTunes, retry these steps.</li></ul></ol> |
+| --- | :--- |
 
 ### iOS Devices with a home button (7th generation):
-> iPhone 7, iPhone 7 Plus, iPad (7th generation), iPod touch (7th generation)
+> iPhone 7, iPhone 7 Plus, iPod touch (7th generation)
+
+| <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone/iphone7-put-device-into-recovery-mode.png" alt="Recovery iPhone 8up" style="width: 70%;"> | <ol><li>Connect the device to a computer using a USB cable.</li><li>Hold down both the Side button and Volume Down button</li><li>After 8 seconds, release the Side button while continuing to hold down the Volume Down button.</li><ul><li>If the Apple logo appears, the Lock button was held down for too long.</li></ul><li>Nothing will be displayed on the screen when the device is in DFU mode. If open, iTunes will alert you that a device was detected in recovery mode.</li><ul><li>If your device shows a screen telling you to connect the device to iTunes, retry these steps.</li></ul></ol> |
+| --- | :--- |
 
 
 ### iOS Devices without a home button (8th generation and later)
@@ -73,7 +78,8 @@ To put an iOS device in DFU mode, you need to connect it to a computer with iTun
 > **iPhone 13**, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max  
 > **iPhone 14**, iPhone 14 Mini, iPhone 14 Pro, iPhone 14 Pro Max  
   
-  
+| <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone/iphone-x-later-put-device-into-recovery-mode-animation.gif" alt="Recovery iPhone 8up" style="width: 70%;"> | <ol><li>Connect the device to a computer using a USB cable.</li><li>Hold down both the Side button and Volume Down button</li><li>After 8 seconds, release the Side button while continuing to hold down the Volume Down button.</li><ul><li>If the Apple logo appears, the Lock button was held down for too long.</li></ul><li>Nothing will be displayed on the screen when the device is in DFU mode. If open, iTunes will alert you that a device was detected in recovery mode.</li><ul><li>If your device shows a screen telling you to connect the device to iTunes, retry these steps.</li></ul></ol> |
+| --- | :--- |
   
 ## Difference between DFU Mode and Recovery Mode
 iOS Recovery Mode and DFU Mode are both special modes that are used to troubleshoot, restore or update iOS devices like iPhones, iPads and iPods. 
