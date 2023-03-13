@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-1. [Introduction]()
-2. [Recovery Mode]()
-3. [DFU Mode]()
-4. [Difference between DFU Mode and Recovery Mode]()
+1. [Introduction](https://github.com/StijnTassenoy/standard-operation-procedures/blob/main/Apple%20Devices/iOS-Recovery-Modi.md#introduction)
+2. [Recovery Mode](https://github.com/StijnTassenoy/standard-operation-procedures/blob/main/Apple%20Devices/iOS-Recovery-Modi.md#recovery-mode)
+3. [DFU Mode](https://github.com/StijnTassenoy/standard-operation-procedures/blob/main/Apple%20Devices/iOS-Recovery-Modi.md#dfu-mode)
+4. [Difference between DFU Mode and Recovery Mode](https://github.com/StijnTassenoy/standard-operation-procedures/blob/main/Apple%20Devices/iOS-Recovery-Modi.md#difference-between-dfu-mode-and-recovery-mode)
 
 ## Introduction
 
