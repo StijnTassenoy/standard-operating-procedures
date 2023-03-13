@@ -1,5 +1,14 @@
 # iOS Recovery Modi
 
+## Table of Contents
+
+1. [Introduction]()
+2. [Recovery Mode]()
+3. [DFU Mode]()
+4. [Difference between DFU Mode and Recovery Mode]()
+
+## Introduction
+
 In order to effectively troubleshoot and restore various iOS devices, it is important to have clear documentation outlining 
 the necessary steps to put each device into its respective recovery mode. 
 As such, this Standard Operating Procedure (SOP) has been created as a reference guide 
